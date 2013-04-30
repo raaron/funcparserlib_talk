@@ -1,4 +1,8 @@
-funcparserlib ... or how to write your own programming language
-===============================================================
+funcparserlib
+=============
+or how to write your own programming language
+=============================================
 
-Slides, code examples and solutions of the "Zurich Python User Group" talk about funcparserlib.
+Code examples for the "Zurich Python User Group" talk about funcparserlib.
+
+Solutions and slides will be uploaded after the talk.
