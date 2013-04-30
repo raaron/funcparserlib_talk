@@ -15,5 +15,5 @@ Installation
   Google will help you (one of the best results: http://git-scm.com/downloads)
 - Clone this git repository by executing the following from the commandline:
 
-    git clone https://github.com/raaron/funcparserlib_talk.git
+      git clone https://github.com/raaron/funcparserlib_talk.git
 
