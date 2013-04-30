@@ -1,0 +1,19 @@
+MainWindow {
+    width = 600;
+    height = 300;
+
+    Label {
+        x = 30;
+        y = 60;
+
+        Image {
+            path = "home/user/logo.png";
+        }
+    }
+
+    Button {
+        x = 30;
+        y = 100;
+        text = "OK";
+    }
+}

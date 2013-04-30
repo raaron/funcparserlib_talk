@@ -1,3 +1,11 @@
+# Soltions and the presentation
+/solutions
+/presentation
+
+# Pictures neede for slide creation
+/presentation/pics
+
+# Compiled python files
 *.py[cod]
 
 # C extensions
