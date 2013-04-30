@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+# This file fixes the bug in line 273 of funcparserlibs parser.py
+# Run as admin!
+
 import os
 import shutil
 import funcparserlib
