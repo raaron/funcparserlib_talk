@@ -1,0 +1,42 @@
+class Main {
+  A a;
+  int b;
+
+  void main() {
+    if (0) {
+      if (0) {
+        write(7);
+      }
+      else {
+        qwer(3 + 3, 0);
+      }
+    }
+    else {
+      write(asdf());
+    }
+  }
+
+  void qwer(int e){
+    int c;
+    int d;
+
+
+    a = new A();
+    b = 7 * 3 + 2 * 7;
+    c = 2 + 3;
+    asdf();
+    write(this);
+  }
+
+  int asdf(){
+    int i;
+    i = 5;
+    while (i - 3) {
+      i = i - 1;
+      return i;
+    }
+  }
+}
+
+class A { }
+

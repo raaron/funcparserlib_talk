@@ -1,0 +1,21 @@
+a = 1
+b = 2
+c = a + b
+
+while (c < 5) {
+  c = c + 1
+  put(c)
+
+  while (a < 3) {
+    a = a + 1
+    put(a)
+  }
+}
+
+put(3 + 5 * 2)
+put(3 < 5)
+
+if (1 < 2) {
+  put(1)
+}
+
