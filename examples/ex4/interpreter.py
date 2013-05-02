@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from parser import Parser
+from javali_parser import Parser
 from evaluator_visitor import EvaluatorVisitor
 
 
